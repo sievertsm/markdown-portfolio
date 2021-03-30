@@ -1,6 +1,6 @@
 <details>
   <summary>Title</summary>
 
-  Content here
+  Here is the longer content stored under the title
 
 </details>
