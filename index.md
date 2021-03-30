@@ -22,4 +22,4 @@ layout: default
 
 <br>
 
-{% include 06-collapseList.md %}
+{% include 06-collapseLists.md %}
