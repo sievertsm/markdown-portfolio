@@ -8,3 +8,10 @@
   text below
 
 </details>
+
+<details>
+  <summary>Title2</summary>
+  
+  text below
+
+</details>
